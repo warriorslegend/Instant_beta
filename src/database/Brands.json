@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung",
+        "src": "images/brands/Samsung-logo.png"
+    },
+    {
+        "id": 2,
+        "name": "Apple",
+        "src": "images/brands/Apple-logo.png"
+    },
+    {
+        "id": 3,
+        "name": "Nike",
+        "src": "images/brands/Nike-logo.png"
+    },
+    {
+        "id": 4,
+        "name": "Adidas",
+        "src": "images/brands/Adidas-logo.png"
+    }
+]

@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+/* HTML */
+
+body {
+    font-family: 'Lato';
+}
+
+nav {
+    padding: 0.2em 0.4em;
+    border-bottom: 1px solid rgb(184, 184, 184);
+    background: #fafafa;
+}
+
+footer {
+    padding: 1em;
+}
+
+/* Content */
+
+#nav-bar-logo {
+    width: 12em;
+}
+
+.search-box {
+    width: 30em;
+}
+
+.search-box:hover {
+    box-shadow: 0px 0px 3px 1px rgba(168, 168, 168, 1);
+    transition: box-shadow 250ms linear;
+}
+
+.search-box input {
+    border: none;
+    padding: 1em;
+    width: 90%;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.search-button {
+    background: none;
+    border: none;
+    font-size: 16px;
+    color: rgb(71, 71, 71);
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    padding: 0.4em 0.2em 0.4em 0.3em;
+}
+
+.search-button:hover {
+    background: rgb(213, 213, 213);
+    transition: background 380ms linear;
+}
+
+.shopping-cart {
+    margin-right: 1em;
+}
+
+.container {
+    margin: 1em;
+}
+
+.see-all {
+    color: rgb(0, 89, 148);
+    margin-left: 1em;
+}
+
+.card {
+    background: white;
+    margin: 0.5em;
+    width: 18em;
+}
+
+.card img {  
+    width: 100%;
+}
+
+.product {
+    margin: 0.5em;
+    width: 18em;
+}
+
+.product img {
+    height: 18em;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-body {
+    padding: 0.75em;
+    font-size: 1.25rem;
+}
+
+.price-aside {
+    margin-top: 0.5em;
+}
+
+.cart-list {
+    width: 70%;
+}
+
+.cart-content {
+    margin-bottom: 0.5em;
+    margin-right: 1em;
+}
+
+.cart-content img {
+    width: 7em;
+    height: 7em;
+}
+
+.subtotal {
+    font-size: 1.3rem;
+}
+
+.brands img {
+    height: 11.5em;
+}
+
+.price {
+    background: #eaf6ff;
+    color: #4191ff;
+    padding: 0.2em;
+}

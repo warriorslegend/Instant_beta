@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Galaxy S20 Ultra",
+        "brand": "Samsung",
+        "src": "images/products/GalaxyS20Ultra.jpg",
+        "price": 399,
+        "quantity": 0
+    },
+    {
+        "id": 2,
+        "name": "iPhone XS",
+        "brand": "Apple",
+        "src": "images/products/iPhoneXS.jpg",
+        "price": 499,
+        "quantity": 0
+    },
+    {
+        "id": 3,
+        "name": "Galaxy S10",
+        "brand": "Samsung",
+        "src": "images/products/GalaxyS10.jpg",
+        "price": 399,
+        "quantity": 0
+    },
+    {
+        
+        "id": 4,
+        "name": "iPhone 11 Pro",
+        "brand": "Apple",
+        "src": "images/products/iPhone11Pro.jpeg",
+        "price": 499,
+        "quantity": 0
+    },
+    {
+        "id": 5,
+        "name": "Air Max 200",
+        "brand": "Nike",
+        "src": "images/products/AirMax200.jpg",
+        "price": 199,
+        "quantity": 0
+    }
+]

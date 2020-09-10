@@ -1,0 +1,43 @@
+@media only screen and (max-width: 800px) {
+    
+    .search-box {
+        width: 18em;
+    }
+
+    .cart {
+        flex-direction: column;
+    }
+
+    .cart-list {
+        width: 100%;
+        margin-bottom: 1em;
+    }
+}
+
+@media only screen and (max-width: 665px) {
+
+    #nav-bar-logo {
+        display: none;
+    }
+
+    #nav-bar-logo-mobile {
+        width: 2em;
+    }
+
+    .mobile {
+        display: inherit;
+    }
+
+    .shopping-cart {
+        margin-right: 0.8em;
+    }
+
+    .card {
+        width: 100%;
+    }
+    
+    .card img {
+        max-height: 30em;
+    }
+
+}

@@ -1,0 +1,101 @@
+/* HTML */
+
+body {
+    margin: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+/* Content */
+
+.flex {
+    display: flex;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.full {
+    width: 100%;
+}
+
+.button {
+    cursor: pointer;
+}
+
+.mobile {
+    display: none;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.19);
+}
+
+.border-box {
+    box-sizing: border-box;
+}
+
+.border {
+    border: 1px solid rgb(184, 184, 184);;
+}
+
+/* Justify/Align */
+
+.align-center {
+    align-content: center;
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+    justify-items: center;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+/* Border Radius */
+
+.radius-6px {
+    border-radius: 6px;
+}
+
+.radius-10px {
+    border-radius: 10px;
+}
+
+/* Text */
+
+.title {
+    font-size: 1.8319rem;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+/* Colors */
+
+.white {
+    color: white;
+}
+
+/* Background Color */
+
+.background-gray {
+    background: #eaeded;
+}
+
+.background-gray-dark {
+    background: rgb(80, 80, 80);
+}
